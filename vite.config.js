@@ -5,6 +5,6 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  // Change back to the absolute root '/'
-  base: '/',
+  // 🔑 Use './' for project pages hosted in a subdirectory (like /my-portfolio/)
+  base: './',
 });
