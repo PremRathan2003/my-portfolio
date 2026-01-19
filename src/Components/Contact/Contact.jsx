@@ -72,7 +72,7 @@ const Contact = () => {
             </div>
             <div className='contact-detail'>
               <img src={resume_icon} alt="Resume Icon" />
-              <a href="https://drive.google.com/uc?export=download&id=1mj_9pDKWi7VIRTeJQHzDqV7k30ORTMkU" className="resume-button" download>Download Resume</a>
+              <a href="https://drive.google.com/file/d/1Fxpp2_1ZmR90GZ3n5Z5MgnUwoP8VhPuG/view?usp=sharing" className="resume-button" download>Download Resume</a>
             </div>
           </div>
         </div>
